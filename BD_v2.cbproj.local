@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.645,C:\Users\Mateusz Cieśliński\Documents\Embarcadero\Studio\Projects\Unit3.h=C:\Users\Mateusz Cieśliński\Desktop\BAZA DANYCH PROJEKT\BD_v1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.795,C:\Users\Mateusz Cieśliński\Desktop\BAZA DANYCH PROJEKT\BD_v2PCH1.h=C:\Users\Mateusz Cieśliński\Desktop\BAZA DANYCH PROJEKT\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.147,=C:\Users\Mateusz Cieśliński\Desktop\BAZA DANYCH PROJEKT\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.911,=C:\Users\Mateusz Cieśliński\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.688,C:\Users\Mateusz Cieśliński\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Mateusz Cieśliński\Desktop\BAZA DANYCH PROJEKT\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.140,=C:\Users\Mateusz Cieśliński\Desktop\BAZA DANYCH PROJEKT\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.816,C:\Users\Mateusz Cieśliński\Desktop\BAZA DANYCH PROJEKT\BD_v2.cbproj=C:\Users\Mateusz Cieśliński\Desktop\BAZA DANYCH PROJEKT\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.488,=C:\Users\Mateusz Cieśliński\Desktop\BAZA DANYCH PROJEKT\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.404,C:\Users\Mateusz Cieśliński\Desktop\BAZA DANYCH PROJEKT\BD_v2.cbproj=C:\Users\Mateusz Cieśliński\Desktop\BAZA DANYCH PROJEKT\BD_v2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.923,C:\Users\Mateusz Cieśliński\Desktop\BAZA DANYCH PROJEKT\BD_v2.cbproj=C:\Users\Mateusz Cieśliński\Desktop\BAZA DANYCH PROJEKT\BD_v2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.480,C:\Users\Mateusz Cieśliński\Desktop\BAZA DANYCH PROJEKT\BD_v2.cbproj=C:\Users\Mateusz Cieśliński\Desktop\BAZA DANYCH PROJEKT\BD_v2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.588,=C:\Users\Mateusz Cieśliński\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.306,=C:\Users\Mateusz Cieśliński\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.645,C:\Users\Mateusz Cieśliński\Documents\Embarcadero\Studio\Projects\Unit3.cpp=C:\Users\Mateusz Cieśliński\Desktop\BAZA DANYCH PROJEKT\BD_v1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.884,C:\Users\Mateusz Cieśliński\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Mateusz Cieśliński\Desktop\BAZA DANYCH PROJEKT\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.832,=C:\Users\Mateusz Cieśliński\Desktop\BAZA DANYCH PROJEKT\Unit6.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.397,=C:\Users\Mateusz Cieśliński\Desktop\BAZA DANYCH PROJEKT\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.605,=C:\Users\Mateusz Cieśliński\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.290,=C:\Users\Mateusz Cieśliński\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.856,=C:\Users\Mateusz Cieśliński\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.645,C:\Users\Mateusz Cieśliński\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\Mateusz Cieśliński\Desktop\BAZA DANYCH PROJEKT\BD_v1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.928,=C:\Users\Mateusz Cieśliński\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.875,=C:\Users\Mateusz Cieśliński\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit1.h"/>
+    <File Path="BD_v1.cpp"/>
+    <File Path="BD_v1.cpp"/>
+    <File Path="BD_v1.dfm"/>
+    <File Path="BD_v1.h"/>
+    <File Path="BD_v2.cpp"/>
+    <File Path="BD_v2PCH1.h"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit2.h"/>
+    <File Path="Unit4.cpp"/>
+    <File Path="Unit4.cpp"/>
+    <File Path="Unit4.dfm"/>
+    <File Path="Unit4.h"/>
+    <File Path="Unit5.cpp"/>
+    <File Path="Unit5.cpp"/>
+    <File Path="Unit5.dfm"/>
+    <File Path="Unit5.h"/>
+    <File Path="Unit6.cpp"/>
+    <File Path="Unit6.cpp"/>
+    <File Path="Unit6.dfm"/>
+    <File Path="Unit6.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
